@@ -5,4 +5,4 @@ Mini Stereo Digital Audio Processor
 - The [MSDAP.v](https://github.com/AkshayXPatil/MSDAP/blob/master/MSDAP.v) file is the main verilog code of the complete design.
 - The [MSDAP_tb.v](https://github.com/AkshayXPatil/MSDAP/blob/master/MSDAP_tb.v) file is the test bench which was used to verify the functionality of the design.
 - [data1.in](https://github.com/AkshayXPatil/MSDAP/blob/master/data1.in) is the sample input file and [data1(golden).out](https://github.com/AkshayXPatil/MSDAP/blob/master/data1(golden).out) is the golden output file.
-- verify.pl is the perl script to verify the actual outputs (data1.out) with the golden outputs
+- [verify.pl](https://github.com/AkshayXPatil/MSDAP/blob/master/verify.pl) is the perl script to verify the actual outputs (data1.out) with the golden outputs
